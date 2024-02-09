@@ -14,15 +14,15 @@ Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.
 
 In this project, Python Pandas & Python Matplotlib is used to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
-Task1: cleaning the data. Tasks during this section include:
+Task 1: cleaning the data. Tasks during this section include:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
 - Change the type of columns (to_numeric, to_datetime, astype)
 
-Task2: adding the required columns after reading the questions 
+Task 2: adding the required columns after reading the questions 
 -Columns can also be added later.
 
-Task3:
+Task 3:
 Once the data is cleaned up a bit, the data exploration should be done. In this section there are 5 high level business questions related to the data:
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
